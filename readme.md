@@ -41,9 +41,9 @@ FS | Full Spell Card | 全卡 |
 GO | Game Over | 疮痍 |  
 Graze |  | 擦弹 |  
 Hitbox |  | 判定点(子弹或自机)，敌人的受伤害区域 |  
-I-frames | Invinciblity Frames | 无敌时间 |  包括放B无敌和miss后无敌
-LNB | Lunatic No Bomb |  |  
-LNN | Lunatic No Miss No Bomb |  |  
+I-frames | Invinciblity Frames | 无敌时间 |  包括放B无敌和miss后无敌以及部分Boss或小怪开场有无敌时间
+LNB | Lunatic No Bomb |  |  
+LNN | Lunatic No Miss No Bomb |  |  
 LS | Last Spell Card | 永夜抄每关达成一定刻符（ex为收卡数）才出现的boss符卡 |  
 LW | Last Word | 永夜抄中只有在达成一定条件后才在单卡练习中出现的符卡 |  
 Macrododging |  | 视野避弹 |  绕过子弹
@@ -101,15 +101,15 @@ Books |  | 魔法阵，六本书 |  红四面道中boss小恶魔之前的六个�
 BoLaD | Border Of Life and Death | 生与死的境界 | 妖妖梦ph八云紫倒数第二张符卡 
 BoWaP | Border Of Wave and Partical | 波与粒的境界 | 地灵殿梦A支援古明地觉终符
 BCB |Hidden Breeze of Cherry Blossom | 里·风吹樱花 | 天空璋隐歧奈春支援终符(同HBCB) 
-BD | Buddhist Diamond | 舍利子 | 永夜抄辉夜二符 
+BD | Buddhist Diamond | 佛体的金刚石 | 永夜抄辉夜二符 
 BDB | Brilliant Dragon Bullet | 耀眼的龙玉 | 永夜抄辉夜一符 
-BLS | Blue Lady Show | 蓝色佳人的演出 | 辉针城雷鼓9符 
+BLS | Blue Lady Show | 蓝色佳人的演出 | 辉针城雷鼓九符 
 Cats Walk | Vengeful Cat Spirit's Erratic Step | 怨灵猫乱步 | 地灵殿五面道中符 
 CC | Complete Clarification | 完全净化 | 星莲船五面终符 
 CFW | Hidden Crazy Fall Wind | 里·狂乱秋风 |  天空璋隐歧奈秋支援终符(同HCFW)
 DBDB | Double Black Death Butterfly | 二重黑死蝶 | 地灵殿四面关底梦A支援二符 
 DR | Devil's Recitation | 魔神复诵 | 星莲船白莲四符 
-EW | Hidden Extreme Winter | 极端寒冬 | 天空璋隐歧奈冬支援终符(同HEW)
+EW | Hidden Extreme Winter | 里·极端寒冬 | 天空璋隐歧奈冬支援终符(同HEW)
 FIN | Flying Insect's Nest | 飞行虫之巢 | 地灵殿梦A支援关底三符 
 GO | Good Omen | 极乐的紫之云路 | 星莲船白莲一符
 GT | Greatest Treasure | 无上至宝 | 星莲船五面道中符 
@@ -135,7 +135,7 @@ RW | Rising World | 光明之世 | 辉夜永夜返终符
 SFN | Saigyouji Flawless Nirvana | 西行寺无余涅槃 | 幽幽子在永夜抄中的Last Word
 SG | Scarlet Gensokyo | 红色的幻想乡 | 红魔乡蕾米莉亚终符(红幻) 
 SM | Scarlet Meister | 绯红的专注 | 红魔乡蕾米莉亚四符(红专) 
-Subsun | Substerranean Sun | 地灵殿阿空终符 |  
+Subsun | Substerranean Sun | 地底太阳 | 地灵殿阿空终符 
 UNR | Uncontainable Nuclear Reaction | 核反应制御不能 | 地灵殿阿空一符	 
 VI | Vampire Illusion | 吸血鬼幻想 | 红魔乡蕾米莉亚三符(吸幻)
 VoWG | Virtue of Wind God | 风神之神德 | 风神录六面神奈子终符(麻将山) 
