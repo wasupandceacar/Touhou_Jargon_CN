@@ -1,26 +1,26 @@
 ## 来源 ##
-术语的列表来源于[https://maribelhearn.github.io/jargon](https://maribelhearn.github.io/jargon)，本项目是这个术语列表的中文翻译，供想要和English speaker交流的中国玩家使用。
+术语的列表部分来源于[https://maribelhearn.github.io/jargon](https://maribelhearn.github.io/jargon)，本项目是这个术语列表的中文翻译，供想要和English speaker交流的中国玩家使用。
 
 ----------
 # ***作品相关*** #
-英文缩写 | 英文全称 | 中文名称 | 注释 
-:-: | :-: | :-: | :-:  |
+英文缩写 | 英文全称 | 中文名称
+:-: | :-: | :-: | 
 TouHou,toho,2hu |  | 东方 |
-EoSD | The Embodiment of Scarlet Devil | 红魔乡 |
-PCB | Perfect Cherry Blossom | 妖妖梦 |
-IN | Imperishable Night | 永夜抄 |
-PoFV | Phantasmagoria of Flower View	 | 花映冢 |
-MoF | Mountain of Faith | 风神录 |
-SA | Subterranean Animism | 地灵殿 |
-UFO | Undefined Fantastic Object | 星莲船 |
-10D,TD | Ten Desires | 神灵庙 |  
-DDC | Double Dealing Character | 辉针城 |
-LoLK | Legacy of Lunatic Kingdom | 绀珠传 |
-HSiFS | Hidden Star in Four Seasons | 天空璋 |
-SB | Shoot the Bullet | 文花帖 |
-DS | Double Spoiler | 文花帖DS |
-GFW | Great Fairy Wars | 大战争 |
-ISC | Impossible Spell Card | 天邪鬼 |
+EoSD | The Embodiment of Scarlet Devil | 红魔乡 
+PCB | Perfect Cherry Blossom | 妖妖梦 
+IN | Imperishable Night | 永夜抄 
+PoFV | Phantasmagoria of Flower View | 花映冢 
+MoF | Mountain of Faith | 风神录 
+SA | Subterranean Animism | 地灵殿 
+UFO | Undefined Fantastic Object | 星莲船 
+10D,TD | Ten Desires | 神灵庙 
+DDC | Double Dealing Character | 辉针城 
+LoLK | Legacy of Lunatic Kingdom | 绀珠传 
+HSiFS | Hidden Star in Four Seasons | 天空璋 
+SB | Shoot the Bullet | 文花帖 
+DS | Double Spoiler | 文花帖DS 
+GFW | Great Fairy Wars | 大战争 
+ISC | Impossible Spell Card | 天邪鬼 
 
 ----------
 
