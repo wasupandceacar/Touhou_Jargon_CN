@@ -13,7 +13,7 @@ PoFV | Phantasmagoria of Flower View | 花映冢
 MoF | Mountain of Faith | 风神录 
 SA | Subterranean Animism | 地灵殿 
 UFO | Undefined Fantastic Object | 星莲船 
-TD | Ten Desires | 神灵庙 
+TD(旧称10D) | Ten Desires | 神灵庙 
 DDC | Double Dealing Character | 辉针城 
 LoLK | Legacy of Lunatic Kingdom | 绀珠传 
 HSiFS | Hidden Star in Four Seasons | 天空璋 
