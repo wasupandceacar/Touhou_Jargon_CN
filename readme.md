@@ -5,7 +5,7 @@
 # ***作品相关*** #
 英文缩写 | 英文全称 | 中文名称
 :-: | :-: | :-: | 
-TouHou,toho,2hu |  | 东方 |
+TouHou, toho, 2hu |  | 东方 |
 EoSD | The Embodiment of Scarlet Devil | 红魔乡 
 PCB | Perfect Cherry Blossom | 妖妖梦 
 IN | Imperishable Night | 永夜抄 
@@ -34,7 +34,7 @@ Bottomhugging |  | 缩在版底左右晃 |
 Cancel |  | 消弹(打分常用) |  
 Cap | Spell Card Captured | 收卡 |  
 Clipdeath |  | 判定杀 |  判定预测错误而miss（典型：红魔乡大玉）
-Counterstop |  | 分数上限 |  游戏分数能够到达的上限。到达上限后有可能不变或者下降（星莲船）
+Counterstop |  | 分数上限 |  游戏分数能够到达的上限，到达上限后有可能不变或者下降（星莲船）
 DB | Death Bomb | 决死 |  
 ExNN | Extra No Miss No bomb |  |  
 FS | Full Spell Card | 全卡 |  
@@ -57,10 +57,10 @@ NB | No Bomb |  |
 NBB | No Border Breaks | 不爆结界 |  仅指妖妖梦，需要在一局的任何结界时间内不撞弹并且不按x
 NF | No Focus | 低封 |  
 NM | No Miss |  | 也被称为 1 life clear
-NMNB,NN  | No Miss No Bomb |一命禁雷 |  
+NMNB, NN  | No Miss No Bomb |一命禁雷 |  
 NNN | NMNMN(R,C,V,U...) | 除NMNB外不爆结界，不吃飞碟，不开灵界，不释放季节等 |  
 NR | No Border Break, No Release | 天空璋中是不用c，妖妖梦中是不爆结界 |  
-NT | No Trace | 不主动开灵界 | 仅指神灵庙 
+NT | No Trance | 不主动开灵界 | 仅指神灵庙 
 NUFO | No UFO | 星莲船不吃飞碟 | NV 也是这个意思
 NV | No Ventora |  |  Ventora是飞碟的日语
 Opener |  | Boss一非 |  
@@ -77,7 +77,7 @@ RNG | Random Number Generator | 随机弹 |
 Route |  | 用于对付狙和固定形状的固定打法 |  
 s1 | Satge 1 | 一面 |  s2,s3,s4...
 Shump | shoot 'em up | STG | STG的别称  
-Shotgunning,Pointblanking |  | 贴脸速攻 |  
+Shotgunning, Pointblanking |  | 贴脸速攻 |  
 Speedkill |  | 速破 |  可以用于整个boss，也可以用于一张卡或者非
 Static |  | 固定弹 |  
 Streaming |  | 微移 |  
@@ -94,6 +94,8 @@ Wall |  | 墙 | 子弹连成一片的区域，基本上是视觉无缝（典型�
 
 
 # ***符卡相关*** #
+注：此处的符卡基本都是指Lunatic难度下的。
+
 英文缩写 | 英文全称 | 中文名称 | 注释 
 :-: | :-: | :-: | :-:  |
 AoJ | "Aura of Justice" | 威光 | 老虎二符 光符「正义的威光」 
