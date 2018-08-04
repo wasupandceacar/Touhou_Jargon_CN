@@ -5,7 +5,7 @@
 # ***作品相关*** #
 英文缩写 | 英文全称 | 中文名称
 :-: | :-: | :-: | 
-TouHou, toho, 2hu |  | 东方 |
+TouHou, toho, 2hu |  | 东方
 EoSD | The Embodiment of Scarlet Devil | 红魔乡 
 PCB | Perfect Cherry Blossom | 妖妖梦 
 IN | Imperishable Night | 永夜抄 
