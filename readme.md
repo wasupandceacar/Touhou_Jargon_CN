@@ -98,7 +98,7 @@ Wall |  | 墙 | 子弹连成一片的区域，基本上是视觉无缝（典型�
 
 英文缩写 | 英文全称 | 中文名称 | 注释 
 :-: | :-: | :-: | :-:  |
-AoJ | "Aura of Justice" | 威光 | 老虎二符 光符「正义的威光」 
+AoJ | Aura of Justice | 威光 | 老虎二符 光符「正义的威光」 
 Books |  | 魔法阵，六本书 | 红四面道中boss小恶魔之前的六个魔法阵，非常难躲，红LNN最难点之一
 BoLaD | Border of Life and Death | 生与死的境界 | 紫妈伪终符 结界「生与死的境界」 
 BoWaP | Border of Wave and Particle | 波粒 | 梦A的小五终符 想起「波与粒的境界」
