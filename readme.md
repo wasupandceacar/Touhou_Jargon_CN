@@ -48,7 +48,7 @@ LS | Last Spell Card | 永夜抄每关达成一定刻符（ex为收卡数）才�
 LW | Last Word | 永夜抄中只有在达成一定条件后才在单卡练习中出现的符卡 |  
 Macrododging |  | 视野避弹 |  绕过子弹
 Memo | Memorisation | 背板 |  
-Mircododging |  | 精度避弹 |  钻小缝
+Micrododging |  | 精度避弹 |  钻小缝
 Milking |  | 尽可能多地增加擦弹等数值 |  
 Misdirection |  | 引狙 |  让狙远离你
 Miss |  | biu |  
