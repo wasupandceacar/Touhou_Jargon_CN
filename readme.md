@@ -75,7 +75,7 @@ Resources |  | 资源 |  指残机和雷，通常用 n/n 表示，如上面的 0
 Restreaming |  | 折返 |  也被称为 cutback
 RNG | Random Number Generator | 随机弹 |  
 Route |  | 用于对付狙和固定形状的固定打法 |  
-s1 | Satge 1 | 一面 |  s2,s3,s4...
+s1 | Stage 1 | 一面 |  s2,s3,s4...
 Shump | shoot 'em up | STG | STG的别称  
 Shotgunning, Pointblanking |  | 贴脸速攻 |  
 Speedkill |  | 速破 |  可以用于整个boss，也可以用于一张卡或者非
@@ -86,7 +86,7 @@ Survival spell |  | 时符 |
 SCB | Spell Card Bonus | 符卡分 |  
 STG | Shooting Game | STG |  
 Timeout,TO |  | 全避 |  
-TAS | Tool-Assisted Speedrun | TAS | 在游戏中使用作弊手段来达成游戏的某些理论极限，如减速、SL（需要达到某些理论极限，如分数理论极限，擦弹极限等，如果没有达成严格上只能称为TAP，Tool-Assisted Play）  
+TAS | Tool-Assisted Speedrun/Superplay | TAS | 在游戏中使用作弊手段来达成游戏的某些理论极限，如减速、SL（需要达到某些理论极限，如分数理论极限，擦弹极限等，如果没有达成严格上只能称为TAP，Tool-Assisted Play）  
 Underflow |  | 负分溢出 | 在辉针城和天邪鬼中，利用咲夜A或者相机道具的减速，造成收取符卡时符卡分为负，实际会变成加分到分数上限，形成爆分（9999999990分） 
 Wall |  | 墙 | 子弹连成一片的区域，基本上是视觉无缝（典型：脸黑的吸幻） 
 
