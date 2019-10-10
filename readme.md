@@ -144,4 +144,34 @@ VoWG,DVoWG | (Divine) Virtue of Wind God | 神德 | 神妈终符 「风神之神
 YDL | Young Demon Lord | 领主 | 蕾咪一符 神罚「幼小的恶魔领主」
 YGB | You Grow Bigger! | 变大 | 针喵丸时符 小槌「你给我变大吧」
  
- 
+# ***子弹类型*** #
+图片 | 英文全称 | 中文名称 | 注释 
+:-: | :-: | :-: | :-:  |
+![](https://maribelhearn.com/bullets/amulet.png) | Amulet | 札弹 | 
+![](https://maribelhearn.com/bullets/arrow.png) | Arrow | 箭弹 | 
+![](https://maribelhearn.com/bullets/arrowhead.png) | Arrowhead | 鳞弹 | 
+![](https://maribelhearn.com/bullets/bacteria.png) | Bacteria, dark rice	 | 杆菌弹 | 
+![](https://maribelhearn.com/bullets/ball.png) | Ball | 小玉 | 
+![](https://maribelhearn.com/bullets/balloutline.png) | Ball (outlined) | 小玉（描边） | 
+![](https://maribelhearn.com/bullets/bubble.png) | Bubble | 大玉 | 
+![](https://maribelhearn.com/bullets/bullet.png) | Bullet | 铳弹 | 
+![](https://maribelhearn.com/bullets/butterfly.png) | Butterfly | 蝶弹 | 
+![](https://maribelhearn.com/bullets/coin.png) | Coin | 钱币弹 | 
+![](https://maribelhearn.com/bullets/fireball.png) | Fireball | 火光弹 | 
+![](https://maribelhearn.com/bullets/glowshit.png) | Fireball (glowy) | 水光弹 | 
+![](https://maribelhearn.com/bullets/heart.png) | Heart | 心弹 | 
+![](https://maribelhearn.com/bullets/jellybean.png) | Jellybean | 椭弹 | 
+![](https://maribelhearn.com/bullets/knife.png) | Knife | 刀弹 | 
+![](https://maribelhearn.com/bullets/kunai.png) | Kunai | 苦无，链弹 | 
+![](https://maribelhearn.com/bullets/mentos.png) | Mentos | 中玉 | 
+![](https://maribelhearn.com/bullets/note.png) | Note | 音符弹 | 
+![](https://maribelhearn.com/bullets/orb.png) | Orb | 光玉 | 
+![](https://maribelhearn.com/bullets/pellet.png) | Pellet | 点弹 | 
+![](https://maribelhearn.com/bullets/popcorn.png) | Popcorn | 菌弹 | 
+![](https://maribelhearn.com/bullets/raindrop.png) | Raindrop, droplet | 滴弹 | 
+![](https://maribelhearn.com/bullets/rest.png) | Rest | 音符弹（休止符） | 
+![](https://maribelhearn.com/bullets/rice.png) | Rice | 米弹 | 
+![](https://maribelhearn.com/bullets/rose.png) | Rose | 蔷薇弹 | 
+![](https://maribelhearn.com/bullets/shard.png) | Shard, icicle | 棱角米弹 | 
+![](https://maribelhearn.com/bullets/star.png) | Star (big) | 大星弹 | 
+![](https://maribelhearn.com/bullets/starsmall.png) | Star (small) | 小星弹 | 
